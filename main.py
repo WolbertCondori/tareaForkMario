@@ -1,2 +1,3 @@
-for i in range(10):
-	print("awa de coco")
+for i in range(2):
+	print("camote")
+print("hola")
